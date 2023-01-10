@@ -3,7 +3,7 @@
 - 🌱 Learning from every where 
 - 📗 Studying CSE in MSRIT, Banglore
 - 💫 I have many hobbies, my fav are :
--Solving puzzels like Rubik's Cube, Painting, Reading books, Podcast, Exercising etc.
+- Solving puzzels like Rubik's Cube, Painting, Reading books, Podcast, Exercising etc.
 - 📫 How to reach me akashsgbadadani@gmail.com
 
 <!---
