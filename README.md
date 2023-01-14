@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akashb2003
 - 🫠 I’m interested in programming
 - 🌱 Learning from every where 
-- 📗 Studying CSE in MSRIT, Banglore
+- 📗 Studying CSE in MSRIT, Banglor
 - 💫 I have many hobbies, my fav are :
 - Solving puzzels like Rubik's Cube, Painting, Reading books, Podcast, Exercising etc.
 - 📫 How to reach me akashsgbadadani@gmail.com
